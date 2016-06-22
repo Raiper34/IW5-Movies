@@ -6,6 +6,6 @@ Filip Gulán
 Marek Marušic 
 
 #Hodnotenie
-1 faza: 10/10
-2 faza: 19/20
+1 faza: 10/10  
+2 faza: 19/20  
 3 faza: 4/30 - nedokončené
